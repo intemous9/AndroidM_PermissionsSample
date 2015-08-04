@@ -7,4 +7,4 @@ Android Mで追加された新機能、Permissionsの動作検証をしたくて
 
 公式ドキュメント: [Permissions | Android Developers](https://developer.android.com/preview/features/runtime-permissions.html)
 
-![Screenshot](https://raw.githubusercontent.com/intemous9/AndroidM_PermissionsSample/master/Screenshot/Screenshot_1.png) 
+<img src="https://raw.githubusercontent.com/intemous9/AndroidM_PermissionsSample/master/Screenshot/Screenshot_1.png" width=300 />
