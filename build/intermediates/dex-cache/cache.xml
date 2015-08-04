@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-26730cf293f97bf25b314dd202f7adeb9f5a8130.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-07d7cee77b67cd7ff8d2cc262177973172f17579.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-5ea2f9234281a9d37e84e914f6f7129c9035ca3b.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-9162c6b46b466fa15d05bdd76c98effa8fecf36d.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-f2e82831aa39c4dbf84ecd9ea54072173fe7dcf1.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-1716753867913bc304753fac7e6f42f4d81f6bb1.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-e5e8d784746017fed2df9b2e98f0e14fc4e7d2e4.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-a1926f0e9ad62678572f8f59d5ee7f17b781ddaf.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-69414b46a513a1c8e54728ff1a43d2f74b968243.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-20f5238e969d83f49b07ec1c24c0718941cb95b5.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-b1f91cd8afd017efe885d7545ce5c4c357416d85.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android-sdks/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-fa448b45998db563067514d977e2a2495961533b.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-a70e3db3d32fd92ac82e7443b15212b0f4a320c1.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-54d46a22f544706ce9bf6a6c486dae4803a9b620.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-66ce4b323d622fa820f104c838c8dcf7f994de51.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-f6aecaa8947f5a8d8d24ec48bf639c559a26f3da.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-3ecf9722335b99d24e6577406adc7c3fc787f63a.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-0227c2894d2fcd6bd46597765907ba716da33ac3.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-950c92115c31e51eaad36d3f568c5c58f0d4029a.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-22353a274eeacc5daa8acb3676cd7c9d8d40187e.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-126d62c42fdbaab254a58dc076e4d740c3e84885.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-cc84c4d7ee9ed435e91b066b109d1305277e9974.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-ef251504d25c7522ed376ed7e49d0f24db1db9fc.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-692e72804b90febd3dc66cb558019955cdfd14c1.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-8803af29fbd347529b0822289d11032a75679cea.jar" />
+    </item>
+    <item
+        jar="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/muroi/android_studio_src/RuntimePermissionSample/app/build/intermediates/pre-dexed/debug/classes-761504ce973176297a6cfa224b2ecdf449638359.jar" />
+    </item>
+
+</items>
